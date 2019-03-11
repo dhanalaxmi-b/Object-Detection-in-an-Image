@@ -2,9 +2,10 @@
 
 Pre-Requirements:
 
-	You already have the config file for YOLO in the yolo-coco/ subdirectory. You will have to download the pre-trained weight file here (237 MB):
-
-	https://pjreddie.com/media/files/yolov3.weights
+	You already have the config file for YOLO in the yolo-coco/ subdirectory.
+	You will have to download the pre-trained weight file here (237 MB):
+  
+   https://pjreddie.com/media/files/yolov3.weights
 
 
 Detection of object using trained YOLO network with COCO label datasets.
